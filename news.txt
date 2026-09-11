@@ -1,3 +1,0 @@
-🦠 Simulation Completed
-📈 Peak Infections: 205 on Day 43
-🔬 Estimated R₀: 3.50
